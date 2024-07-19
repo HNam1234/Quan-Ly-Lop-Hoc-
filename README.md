@@ -14,4 +14,5 @@
 - Hiển thị danh sách sinh viên
 - Thêm, xóa, sửa sinh viên mới và cũ
 - Dữ liệu được quản lý trên Mysql cần thay đổi tài khoản, mật khẩu mặc định để sử dụng
-![image](https://github.com/user-attachments/assets/3f5ee512-e751-4a95-a33f-989d1317fe5e)
+![image](https://github.com/user-attachments/assets/b7926733-59e3-4fdb-bcd5-155b69580c4e)
+
