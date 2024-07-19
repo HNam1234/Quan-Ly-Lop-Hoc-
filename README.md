@@ -1,4 +1,4 @@
-# Chương trình  Quản Lý Lớp Học lưu dữ liệu trên MySQL
+# Chương trình  Quản Lý Lớp Học lưu dữ liệu trên MySQL bằng ngôn ngữ C++
 
 # Để sử dụng chương trình, đầu tiên chúng ta cần cài đặt môi trường và login cho mySQL trên IDE
 
